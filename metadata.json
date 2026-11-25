@@ -1,0 +1,6 @@
+{
+  "name": "Samvad Studio",
+  "description": "Create 9:16 animated mythological Hindi motivational and devotional short videos featuring Shri Ram, Lakshman, and Hanuman with AI script generation, voiceover, music mixing, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Samvad Studio</string>
+    <string name="studio_title">Ramayana Samvad Studio</string>
+    <string name="studio_subtitle">राम-लक्ष्मण-हनुमान संवाद वीडियो स्टूडियो</string>
+    <string name="tab_studio">Studio</string>
+    <string name="tab_script">AI Script</string>
+    <string name="tab_visuals">Visuals</string>
+    <string name="tab_audio">Audio &amp; Export</string>
+    <string name="export_video">Export MP4</string>
+    <string name="generate_script">Generate Script with Gemini</string>
+    <string name="apply_script">Apply Script to Video Studio</string>
+</resources>

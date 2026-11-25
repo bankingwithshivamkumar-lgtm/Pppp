@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="studio_bg">#FF0B0F19</color>
+    <color name="studio_surface">#FF121826</color>
+    <color name="saffron_amber">#FFF59E0B</color>
+    <color name="royal_gold">#FFD4AF37</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
